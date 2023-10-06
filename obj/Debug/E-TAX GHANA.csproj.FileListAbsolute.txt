@@ -1,0 +1,24 @@
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\obj\Debug\E-TAX GHANA.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\obj\Debug\E_TAX_GHANA.Form1.resources
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\obj\Debug\E_TAX_GHANA.Properties.Resources.resources
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\obj\Debug\E-TAX GHANA.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\obj\Debug\E-TAX GHANA.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\E-TAX GHANA.exe.config
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\E-TAX GHANA.exe
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\E-TAX GHANA.pdb
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\obj\Debug\E-TAX GHANA.csproj.CopyComplete
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\obj\Debug\E-TAX GHANA.exe
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\obj\Debug\E-TAX GHANA.pdb
+C:\Users\admin\Desktop\E_TAX\E-TAX GHANA\bin\Debug\QRCoder.dll
